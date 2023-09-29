@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sierk van Terwisga / personal website"
+title                    : "Sierk van Terwisga"
 title_separator          : "-"
 name                     : &name "Sierk van Terwisga"
 description              : &description "Postdoctoral researcher"
